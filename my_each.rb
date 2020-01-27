@@ -7,5 +7,5 @@ i = i + 1
 end
 collection
 else 
-  return i
+  return false
 end
