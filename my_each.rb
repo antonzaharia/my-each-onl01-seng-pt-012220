@@ -7,6 +7,6 @@ i = i + 1
 end
 collection
 else 
-  return false
+  return true
 end
 end
