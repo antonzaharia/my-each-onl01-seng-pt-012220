@@ -1,4 +1,7 @@
 def my_each(collection)
-  collection.while 
-  yield(i)
+i = 0
+while i < collection.length
+yield(i)
+i = i + 1
+end
 end
