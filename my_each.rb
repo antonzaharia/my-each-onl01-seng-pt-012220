@@ -6,4 +6,6 @@ yield(i)
 i = i + 1
 end
 collection
+else 
+  return i
 end
